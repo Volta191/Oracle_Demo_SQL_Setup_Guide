@@ -1,5 +1,5 @@
 # Oracle_Demo_SQL_Setup_Guide
-Small guide to setup local environment for SQL Trainig
+Small guide to setup local environment for SQL trainig on Windows 
 
 # Oracle XE + HR через Docker Desktop + SQL Developer
 
